@@ -81,8 +81,8 @@
 			children = (
 				53F40032277D00F8001DFF7F /* NavigationViewController.swift */,
 				53F4002C277CEDDF001DFF7F /* PersonsTableViewController.swift */,
-				53F40030277CFDC6001DFF7F /* PersonsInfoTableViewController.swift */,
 				53F4002E277CEE48001DFF7F /* AboutPersonViewController.swift */,
+				53F40030277CFDC6001DFF7F /* PersonsInfoTableViewController.swift */,
 			);
 			path = ViewControllers;
 			sourceTree = "<group>";
